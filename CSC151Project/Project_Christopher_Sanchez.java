@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.text.DecimalFormat;
 
-public class Demo {
+public class Project_Christopher_Sanchez {
     public static void main(String[] args) {
         Scanner keyboard = new Scanner(System.in);
         DecimalFormat twoPlaces = new DecimalFormat("0.00");
